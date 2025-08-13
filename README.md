@@ -19,27 +19,47 @@
 
 ## 🌟 Featured Projects
 
-### 🪞 Prism Wallet
-A Solana browser extension wallet with **real-time balances**, **NFT viewing**, and **token swaps**.  
-[🔗 View Repository](https://github.com/pumpscoutx/prism-wallet)
+## 📌 Featured Projects
 
-![Prism Wallet Banner](https://raw.githubusercontent.com/pumpscoutx/pumpscoutx/main/assets/prism-banner.png)
-
----
-
-### 🌐 Mood Wall Crypto
-A blockchain-powered **community wall** for crypto enthusiasts.  
-[🔗 View Repository](https://github.com/pumpscoutx/mood-wall-crypto)
-
-![Mood Wall Banner](https://raw.githubusercontent.com/pumpscoutx/pumpscoutx/main/assets/moodwall-banner.png)
+### **Prism - Solana Wallet Extension**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pumpscoutx/pumpscoutx/main/assets/prism.png" width="300">
+  <img src="https://raw.githubusercontent.com/pumpscoutx/pumpscoutx/main/assets/prism1.png" width="300">
+  <img src="https://raw.githubusercontent.com/pumpscoutx/pumpscoutx/main/assets/prism2.png" width="300">
+</p>
+Lightweight Solana wallet with send, receive, token swaps, and multiple network support.  
+**Tech:** TypeScript, Next.js, Solana Web3.js
 
 ---
 
-### 📊 ShillDash
-Analytics dashboard for crypto projects with marketing automation.  
-[🔗 View Repository](https://github.com/pumpscoutx/shilldash)
+### **Pumpsound**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pumpscoutx/pumpscoutx/main/assets/pumpsound.png" width="300">
+  <img src="https://raw.githubusercontent.com/pumpscoutx/pumpscoutx/main/assets/pumpsound1.png" width="300">
+</p>
+Blockchain-powered music platform for decentralized audio sharing.  
+**Tech:** React, TailwindCSS, Solana
 
-![ShillDash Banner](https://raw.githubusercontent.com/pumpscoutx/pumpscoutx/main/assets/shilldash-banner.png)
+---
+
+### **Shill Dash**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pumpscoutx/pumpscoutx/main/assets/shill_dash1.png" width="300">
+  <img src="https://raw.githubusercontent.com/pumpscoutx/pumpscoutx/main/assets/shill_dash_2.png" width="300">
+  <img src="https://raw.githubusercontent.com/pumpscoutx/pumpscoutx/main/assets/shilldash.png" width="300">
+  <img src="https://raw.githubusercontent.com/pumpscoutx/pumpscoutx/main/assets/shilldash1.png" width="300">
+</p>
+Crypto analytics & shill tracking dashboard with real-time metrics.  
+**Tech:** Next.js, Chart.js, Solana
+
+---
+
+### **MoodWall**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pumpscoutx/pumpscoutx/main/assets/moodwall.png" width="400">
+</p>
+AI-powered wall for mood sharing and community engagement.  
+**Tech:** React, Node.js, AI APIs
 
 ---
 
