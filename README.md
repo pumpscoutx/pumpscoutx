@@ -19,8 +19,6 @@
 
 ## 🌟 Featured Projects
 
-## 📌 Featured Projects
-
 ### **Prism - Solana Wallet Extension**
 <p align="center">
   <img src="https://raw.githubusercontent.com/pumpscoutx/pumpscoutx/main/assets/prism.png" width="300">
